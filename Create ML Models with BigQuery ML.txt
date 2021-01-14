@@ -243,7 +243,7 @@ FROM
 #################################****************************##############################33333333
 Task 5:
 
-Use the second model, that model (model austin_2 in this case) to to predict the average duration length of all trips from the busiest rental station in 2019 (based on the number of rentals per station in 2019) where the subscriber_type=’Single Trip’.
+Use the second model, that model (model austin_2 in this case) to to predict the average duration length of all trips from the busiest rental station in 2019 (based on the number of rentals per station in 2019) where the subscriber_type=’Single Trip’
 
 
 The following query will list busiest stations in descending order. The busiest station for 2019 was “21st & Speedway @PCL”.
