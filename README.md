@@ -1,5 +1,7 @@
 # Create ML Models with BigQuery ML: Challenge Lab (GSP341)
 
+> 📦 **Archived.** This lab is now maintained in **[google-cloud-skills-boost-notes](https://github.com/codewithgarry/google-cloud-skills-boost-notes/tree/main/data-bigquery/gsp341-create-ml-models-with-bigquery-ml)** with my other Google Cloud lab notes. This repository is read-only.
+
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Lab](https://img.shields.io/badge/Lab-GSP341-34A853)
 ![BigQuery ML](https://img.shields.io/badge/BigQuery_ML-669DF6?logo=googlebigquery&logoColor=white)
